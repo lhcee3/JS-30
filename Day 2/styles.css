@@ -41,7 +41,7 @@ body {
 }
 
 .hour-hand {
-    height: 8px;
+    height: 10px;
 }
 
 .minute-hand {
@@ -51,4 +51,10 @@ body {
 .second-hand {
     height: 4px;
     background-color: red;
+}
+.name{
+    color:#ff00008e ;
+    padding-right: 2rem;
+    padding-top: 13rem;
+    padding-left: 2rem;
 }
